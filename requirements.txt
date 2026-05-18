@@ -1,0 +1,4 @@
+```txt id="4jlwmx"
+streamlit
+google-genai
+pandas
