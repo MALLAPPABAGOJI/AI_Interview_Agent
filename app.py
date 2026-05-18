@@ -3,7 +3,7 @@ from google import genai
 from database import save_interview
 
 # Gemini API Key
-client = genai.Client(api_key="AIzaSyDpnQqBBGkFtdh-kCDKrY-bI6_NLXUXY3A")
+client = genai.Client(api_key="Your_API_KEY")
 
 st.set_page_config(page_title="AI Interview Agent", page_icon="🤖", layout="centered")
 
