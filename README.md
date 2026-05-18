@@ -60,5 +60,4 @@ AI_Interview_Agent/
 ├── database.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-└── interview_data.db
+|__ .gitignore
